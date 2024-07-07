@@ -8,6 +8,10 @@ This is a exmaple is to show different parts of the Git repository and various c
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple exmaples for Git training demos.
+
 ## Deloyment
+
+This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
