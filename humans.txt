@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Duy Linh	duylinha12@gmail.com	duylinh1604
 
 # THANKS
 
